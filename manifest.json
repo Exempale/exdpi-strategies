@@ -1,10 +1,12 @@
 {
-  "version": "1",
+  "version": "2",
   "comment": "Увеличивайте version при каждом обновлении стратегий — клиенты применят их автоматически",
   "strategies": [
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT10%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT11%29.bat",
+    "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT12%29.bat",
+    "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT13%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT2%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT3%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT4%29.bat",
@@ -13,6 +15,7 @@
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT7%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT8%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28ALT9%29.bat",
+    "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28EXP%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28FAKE%20TLS%20AUTO%20ALT%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28FAKE%20TLS%20AUTO%20ALT2%29.bat",
     "https://raw.githubusercontent.com/Exempale/exdpi-strategies/main/general%20%28FAKE%20TLS%20AUTO%20ALT3%29.bat",
